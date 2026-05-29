@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/spydxn/spydxn/blob/main/masterSword.jpg" width="100%" alt="banner"/>
+  <img src="https://github.com/spydxn/spydxn/blob/main/link%20wallpaper.jpg" width="100%" alt="banner"/>
 </div>
 
 <!-- Titulo -->
