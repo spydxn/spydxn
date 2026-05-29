@@ -5,7 +5,7 @@
 
 <!-- Titulo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0BC547&center=true&width=435&lines=Desenvolvedor+Backend;Her%C3%B3i+Do+Tempo" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?color=0E831C&center=true&lines=Desenvolvedor+Backend;Her%C3%B3i+Do+Tempo" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -68,6 +68,7 @@ Também possuo experiência com HTML, CSS, JavaScript, Git e Metodologias Ágeis
 | | Curso | Status |
 |:---:|:---|:---:|
 | ◈ | AWS Treina Brasil | 🔄 Em andamento |
+| ◈ | Santander AI Java Back-end | 🔄 Em andamento |
 ---
 
 <div align="center">
