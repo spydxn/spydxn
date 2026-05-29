@@ -24,7 +24,7 @@
 Atualmente estou aprofundando meus estudos em Java, Python e SQL Server, aplicando esses conhecimentos em projetos pessoais reais como sistemas e aplicações práticas.
 
 Também possuo experiência com HTML, CSS, JavaScript, Git e Metodologias Ágeis, e continuo evoluindo minhas habilidades no desenvolvimento de soluções modernas e eficientes.
-<img align="right" width="240px" src="https://github.com/spydxn/spydxn/blob/main/link.jpg" alt="Link"/>
+<img align="right" width="240px" src="https://github.com/spydxn/spydxn/blob/main/perfil.jpg" alt="Link"/>
 
 
 
