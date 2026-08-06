@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- Contato -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermespadin/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_guilhermespadin/)
 </div>
 
