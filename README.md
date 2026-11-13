@@ -30,8 +30,6 @@
 <!-- APRESENTAÇÃO -->
 <img align="right" width="180px" src="https://github.com/spydxn/spydxn/blob/main/perfil.jpg" alt="perfil"/>
 
-**Desenvolvedor Backend**
-
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end com Java, utilizando o ecossistema Spring Boot e Spring Data para desenvolver aplicações robustas, escaláveis e eficientes. Paralelamente, venho desenvolvendo projetos freelancer, colocando em prática meus conhecimentos e aprimorando minha capacidade de transformar necessidades reais em soluções tecnológicas.
 
 Também possuo experiência com HTML, CSS, JavaScript e Metodologias Ágeis, além de conhecimentos em desenvolvimento Front-end. Utilizo Git e GitHub para controle de versão e gerenciamento de código-fonte, aplicando boas práticas de versionamento, organização de branches e gerenciamento de alterações.
