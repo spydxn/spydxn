@@ -5,7 +5,7 @@
 
 <!-- Titulo -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=0E831C&center=true&lines=Desenvolvedor+Backend;Her%C3%B3i+Do+Tempo" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?color=0E831C&center=true&lines=Desenvolvedor+Backend" alt="Typing SVG"/>
 </div>
 
 <br/>
