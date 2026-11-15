@@ -91,7 +91,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Fac
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       </p>
       <p>
-        Sistema para otimizar o gerenciamento de filas e agendamentos, permitindo organizar atendimentos, controlar chamadas e melhorar a experiência dos usuários.
+        Sistema para gerenciamento de filas e agendamentos, permitindo organizar atendimentos e controlar chamadas.
       </p>
       <p align="center">
         <strong>Em desenvolvimento</strong>
@@ -106,7 +106,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Fac
         <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
       </p>
       <p>
-        Landing page responsiva para um restaurante especializado em massas italianas, com apresentação do cardápio e funcionalidade de encaminhamento de pedidos pelo WhatsApp.
+        Landing page para um restaurante de massas italianas, com apresentação do restaurante, do cardápio e com a opção de realizar o pedido por lá mesmo.
       </p>
       <p align="center">
         <strong>Em desenvolvimento</strong>
