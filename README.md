@@ -30,11 +30,12 @@
 <!-- APRESENTAÇÃO -->
 <img align="right" width="180px" src="https://github.com/spydxn/spydxn/blob/main/perfil.jpg" alt="perfil"/>
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento Back-end com Java, utilizando o ecossistema Spring Boot e Spring Data para desenvolver aplicações robustas, escaláveis e eficientes. Paralelamente, venho desenvolvendo projetos freelancer, colocando em prática meus conhecimentos e aprimorando minha capacidade de transformar necessidades reais em soluções tecnológicas.
+Venho aprimorando meus conhecimentos em desenvolvimento Back-end com Java, utilizando Spring Boot e Spring Data. Paralelamente, venho desenvolvendo projetos freelancer, colocando em prática meus conhecimentos para que eu entenda melhor
+como funciona o mercado de trabalho e como resolver problemas seja em código ou nos problemas da empresa.
 
-Também possuo experiência com HTML, CSS, JavaScript e Metodologias Ágeis, além de conhecimentos em desenvolvimento Front-end. Utilizo Git e GitHub para controle de versão e gerenciamento de código-fonte, aplicando boas práticas de versionamento, organização de branches e gerenciamento de alterações.
+Para Front-end costumo usar até o momento HTML, CSS, JavaScript. Comecei a usar mais o Git e GitHub para controle de versão e gerenciamento de código-fonte, para que seja mais fácil na hora de trabalhar e manter tudo organizado.
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta, cursando o terceiro semestre. Embora ainda esteja em formação acadêmica, venho desenvolvendo meus conhecimentos na área de tecnologia há algum tempo.
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Impacta, cursando o terceiro semestre. Mas minha jornada na área de TI começou aos meus 14 anos quando já fuçava nos hardwares dos aparelhos aqui em casa, mas o que me ganhou mesmo foi a parte do código.
 
 <br clear="right"/>
 
